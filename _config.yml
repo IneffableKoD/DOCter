@@ -38,7 +38,7 @@ navigation:
   url: login/
   internal: true
 - text: Welcome
-  url: welcome/
+  url: login/welcome/
   internal: true
 - text: DOCter Repo
   url: https://github.com/cfpb/DOCter
