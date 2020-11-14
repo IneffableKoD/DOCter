@@ -9,8 +9,8 @@ Please log in to your workspace
 
 <form action="welcome.md/">
   <label for="fname">E-Mail:</label>
-  <input type="email"> id="fname" name="fname"><br><br>
+  <input type="email"> 
   <label for="lname">Password:</label>
-  <input type="password" id="lname" name="lname"><br><br>
+  <input type="password">
   <input type="submit" value="Log in">
 </form> 
