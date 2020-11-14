@@ -7,7 +7,7 @@ Welcome to GannetEO
 
 Please log in to your workspace
 
-<form action="welcome.md">
+<form action="/welcome.md">
   <label for="email">E-Mail:</label>
   <input type="email"> <br><br>
   <label for="password">Password:</label>
