@@ -16,7 +16,7 @@ title:  "Welcome to LeucothEO"
 
 ## Your Dashboard
 
-![Dashboard](https://github.com/IneffableKoD/LeucothEO/blob/gh-pages/assets/img/gannet_dashboard.png)
+![Dashboard](https://github.com/IneffableKoD/LeucothEO/blob/gh-pages/assets/img/gannet_dashboard.png?raw=true)
 
 ## Open Audits
 
