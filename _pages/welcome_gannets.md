@@ -20,6 +20,8 @@ title:  "Welcome to LeucothEO"
 
 ## Open Audits
 
+<button onclick="document.location='https://www.youtube.com/watch?v=dQw4w9WgXcQ'">See Open Audits</button>
+
 ## Forum
 
 <button onclick="document.location='https://www.youtube.com/watch?v=dQw4w9WgXcQ'">Enter</button>
@@ -28,4 +30,4 @@ title:  "Welcome to LeucothEO"
 
 Dear Gannets, we hope you are all safe during the ongoing COVID-19 situation. We would like to hear about your experiences at the Odyssey Momentum hackathon. 
 
-Please reach out to us if you have any question concerning your safety or health. You can reach us under gannet@ganneteo.org
+Please reach out to us if you have any question concerning your safety or health. You can reach us under gannet@leucotheo.org
