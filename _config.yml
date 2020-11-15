@@ -40,8 +40,8 @@ navigation:
 - text: Welcome
   url: login/welcome/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: LeucothEO Repo
+  url: https://github.com/IneffableKoD/LeucothEO
   internal: false
 
 # Repo list
