@@ -21,6 +21,8 @@ title:  "Welcome to LeucothEO"
 
 <button onclick="document.location='https://www.youtube.com/watch?v=dQw4w9WgXcQ'">Enter</button>
 
+<hr>
+
 Dear Gannets, we hope you are all safe during the ongoing COVID-19 situation. We would like to hear about your experiences at the Odyssey Momentum hackathon. 
 
 Please reach out to us if you have any question concerning your safety or health. You can reach us under gannet@ganneteo.org
