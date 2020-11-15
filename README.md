@@ -1,73 +1,67 @@
-# DOCter
+# LeucothEO - A CEVEN.protect Project
 
-DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
+## Project Overview
 
-![DOCter Screenshot](https://github.com/ascott1/DOCter/blob/gh-pages/assets/img/screenshot.png?raw=true)
+| Project name        | LeucothEO                                                     |
+| :------------------ | ------------------------------------------------------------  |
+| Title               | Incentivizing data sharing on the high seas                   |
+| Product demo        | http://www.ineff.ch/DOCter/                                   |
+| Blog post           | TBA                                                           |
+| Dissemination level | Public                                                        |
+| Version             | 0.1                                                           |
+| Text license        | This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License |
+| Software license    | GNU AFFERO GENERAL PUBLIC LICENSE 3.0                         |
+| Status              | Work in progress                                              |
 
-[See the demo](http://cfpb.github.io/DOCter/)
+![Screenshot Map](assets/img/201115_CEVEN.protect_LeucothEO_Poster.png)
 
-## To run DOCter locally
+## Team 
 
-DOCter needs Jekyll and other dependencies to run locally. These can be installed with Bundler by running the following commands.
+CEVEN.protect is a collaboration between CEVEN and Space4Good
 
-```
-gem install bundler
-bundle install
-```
+Team members: 
+-   Elke Sauter
+-   Lily Gonzalez
+-   Lisa Broekhuizen
+-   Shravan Shah
+-   Yannick Zehnder
 
-Fork and clone the repo:
+## The Problem
 
-```
-git clone git@github.com:cfpb/DOCter.git
-cd DOCter
-```
-Run Jekyll:
+The Sargasso Sea is a fragile ecosystem. Due to its location, it is hard to monitor, hard to protect, but essential to understanding more about the dynamics of human-nature interaction. A dramatic increase in fishing vessels in the Sargasso Sea's eastern part within less than ten years made observers curious of the ships' activities in the area. We will shine a light on that stage!
 
-```
-bundle exec jekyll serve --watch --baseurl ''
-```
+## The Solution
 
-Open it up in your browser: <http://localhost:4000/>
+We want to incentivize fisheries to share their data on routes and catch in and around the Sargasso Sea. By self-reporting their activities in the area of interest, the fisheries can gain a favorable rating and open up a communication channel to establish common ground with other stakeholders in the area.
+In the B2B market, buyers and sellers alike can refer to a transparent, trustworthy, and controlled single source of truth to prove their will to do good. Responsible buyers can sort out the responsible actors from those unwilling to act sustainably.
+The solution will be presented in a simple front-end that allows easy access to publicly visible data.
 
+## The Vision
 
-## `_config.yml`
+In a self-governing environment with incentivized behavior, fisheries in and around the Sargasso Sea (and other marine ecosystems) motivate the market's sell and buy-side to act sustainably.
+A global governance platform makes sure that our children and grandchildren still get to admire the wonders of the oceans and eat healthy fish at the same time. Based on transparent and immutable data recorded by fisheries and backed up by remote sensing and earth observation data for two-factor confirmation, the fishing industry embraces technology for a green future. 
 
-Options within the `_config.yml` file allow you to control the site's title, subtitle, logo, author information, and the left column navigation.
+## UN Sustainable Developmet Goals
 
+We regard the UN SDG as a holistic, interlocked system of dependencies. Nevertheless, we focus on Goal 14, "Life Below Water," as our main incentive to develop our solution.
+We encourage responsible, sustainable, and inclusive behavior by providing incentives, transparency, and communication channels between stakeholders in the Sargasso Sea ecosystem.
 
-### Project Page URL Structure
+## Pilot Goal
 
-**This is an excerpt from the [Jekyll docs](http://jekyllrb.com/docs/github-pages/) on configuring your URL for Project Pages.**
+Provide first user experience on the fishery reporting system and the two-factor vessel validation system via optical remote sensing methods. Visualize dashboards accessible for Marine Governance bodies (Sargasso Sea Commission) for overall monitoring and the reporting system for Auditing Entities that enable them to provide rankings for fisheries and resulting incentives for different stakeholders.
 
-Sometimes it's nice to preview your Jekyll site before you push your `gh-pages` branch to GitHub. However, the subdirectory-like URL structure GitHub uses for Project Pages complicates the proper resolution of URLs. Here is an approach to utilizing the GitHub Project Page URL structure (`username.github.io/project-name/`) whilst maintaining the ability to preview your Jekyll site locally.
+## Whats Next?
 
-1. In `_config.yml`, set the `baseurl` option to `/project-name` -- note the leading slash and the **absence** of a trailing slash.
-2. When referencing JS or CSS files, do it like this: `{{ site.baseurl }}/path/to/css.css` -- note the slash immediately following the variable (just before "path").
-3. When doing permalinks or internal links, do it like this: `{{ site.baseurl }}{{ post.url }}` -- note that there is **no** slash between the two variables.
-4. Finally, if you'd like to preview your site before committing/deploying using `jekyll serve`, be sure to pass an **empty string** to the `--baseurl` option, so that you can view everything at `localhost:4000` normally (without `/project-name` at the beginning): `jekyll serve --baseurl ''`
+- Explore data sources for live monitoring
+- Develop on the user interface
+- Start onboarding users for rapid testing and real time feedback loops
 
-This way, you can preview your site locally from the site root on localhost, but when GitHub generates your pages from the gh-pages branch all the URLs will start with `/project-name` and resolve properly.
+## Credits
 
+Thanks and shoutouts to:
 
-## Offline support
+- The Odyssey Team (https://www.odyssey.org/) 
+- Alexander Gunkel (https://www.space4good.com/)
+- The Sargasso Sea Commission (http://www.sargassoseacommission.org/)
 
-DOCter provides optional offline support via a [Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/). This means that, when enabled, after an initial load of your DOCter site, a cached version will be available offline in some modern browsers.
-
-**To enable offline caching:**
-
-in `_config.yml`: set `offline_cache` to `true` (defaults to `false`)
-
-**To update the cached version of your site:**
-
-in `_config.yml`: change the value of `cache_name` (this should be done with every significant update to the site)
-
-**To add additional files to the cache:**
-
-in `sw.js`: update the `filesToCache` array
-
-
-## License
-
-The project is in the public domain, and all contributions to it will be released as such. By submitting a pull request, you are agreeing to waive all rights to your contribution under the terms of the [CC0 Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).
-
-If you contribute the open source work of others, please mark it clearly in your pull request.
+------
