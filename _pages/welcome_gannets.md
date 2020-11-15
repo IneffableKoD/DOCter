@@ -16,7 +16,7 @@ title:  "Welcome to LeucothEO"
 
 ## Your Dashboard
 
-![Dashboard](_pages/welcome_gannets.md)
+![Dashboard](assets/img/gannet_dashboard.png)
 
 ## Open Audits
 
