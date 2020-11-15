@@ -15,7 +15,7 @@ title:  "Welcome to LeucothEO"
 
 ## Your Dashboard
 
-<img src="assets/img/gannet_dashboard.png" alt="Gannet DashboardG" align="left">
+<img src="assets/img/gannet_dashboard.png" alt="Gannet Dashboard" align="left">
 
 ## Open Audits
 
