@@ -19,7 +19,7 @@ title:  "Welcome to LeucothEO"
 
 ## Forum
 
-<button onclick="document.location='default.asp'">Enter</button>
+<button onclick="document.location='https://www.youtube.com/watch?v=dQw4w9WgXcQ'">Enter</button>
 
 Dear Gannets, we hope you are all safe during the ongoing COVID-19 situation. We would like to hear about your experiences at the Odyssey Momentum hackathon. 
 
