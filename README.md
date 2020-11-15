@@ -13,7 +13,7 @@
 | Software license    | GNU AFFERO GENERAL PUBLIC LICENSE 3.0                         |
 | Status              | Work in progress                                              |
 
-![Screenshot Map](assets/img/201115_CEVEN.protect_LeucothEO_Poster.png)
+![Screenshot Map](assets/img/201115_CEVEN.protect_LeucothEO_Poster_Logo.png)
 
 ## Team 
 
