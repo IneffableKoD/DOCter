@@ -10,4 +10,4 @@ We encourage responsible, sustainable, and inclusive behavior by providing incen
 
 <br><br>
 
-<img src="assets/img/sdg_ring.png" alt="UN SDG" width="250" height="250">
+<img src="assets/img/sdg_ring.png" alt="UN SDG" width="250" height="250"> <img src="assets/img/UN SDG_GIF_14 copy.gif" alt="UN SDG" width="250" height="250"> 
