@@ -3,7 +3,7 @@ layout: page
 title:  "Login"
 ---
 
-Welcome to GannetEO
+Welcome to LeucothEO
 
 Please log in to your workspace
 
