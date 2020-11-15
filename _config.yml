@@ -48,7 +48,7 @@ navigation:
 # List repos that you would like to appear on the homepage here
 repos:
 - name: CEVEN.protect
-  description: Odyssey Momentum Repository
+  description: Momentum Repository
   url: https://github.com/OdysseyMomentum/CEVEN.protect
 
 # Style Variables
