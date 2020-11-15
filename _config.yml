@@ -47,8 +47,8 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Fisheries Satellite Data
-  description: Brought to you by Space4Good and CEVEN
+- name: CEVEN.protect
+  description: Odyssey Momentum Repository
   url: https://github.com/OdysseyMomentum/CEVEN.protect
 
 # Style Variables
