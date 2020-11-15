@@ -7,7 +7,7 @@ Welcome to LeucothEO
 
 Please log in to your workspace
 
-<form action="welcome_gannets.md"> <!--- change before presentation --->
+<form action="http://www.ineff.ch/LeucothEO/welcome_gannets/"> <!--- change before presentation --->
   <label for="email">E-Mail:</label>
   <input type="email"> <br><br>
   <label for="password">Password:</label>
