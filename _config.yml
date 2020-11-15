@@ -35,13 +35,10 @@ navigation:
   url: ./
   internal: true
 - text: About
-  url: ./
+  url: about/
   internal: true
 - text: Login
   url: login/
-  internal: true
-- text: Welcome
-  url: login/welcome/
   internal: true
 - text: LeucothEO Repo
   url: https://github.com/IneffableKoD/LeucothEO
