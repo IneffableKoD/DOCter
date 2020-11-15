@@ -4,7 +4,7 @@ Welcome to LecothEO
 
 We provide transparent and trustworthy incentives for fisheries to act responsibly on the high seas by harnessing the untapped potential in Earth Observation data. 
 
-<i>LecothEO is the platform enabling stakeholders in the high seas to <b>out-collaborate the satus quo</b>.</i>
+<i>LecothEO is the platform enabling stakeholders in the high seas to <b>out-collaborate the status quo</b>.</i>
 
 <br><br>
 
