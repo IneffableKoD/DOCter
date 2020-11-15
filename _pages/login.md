@@ -7,7 +7,7 @@ Welcome to GannetEO
 
 Please log in to your workspace
 
-<form action="http://www.ineff.ch/DOCter/welcome_gannets/"> <!--- change before presentation --->
+<form action="_pages/welcome_gannets.md"> <!--- change before presentation --->
   <label for="email">E-Mail:</label>
   <input type="email"> <br><br>
   <label for="password">Password:</label>
