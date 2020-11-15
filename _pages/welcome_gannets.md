@@ -15,6 +15,8 @@ title:  "Welcome to LeucothEO"
 
 ## Your Dashboard
 
+<img src="assets/img/ganett_dashboard.png" alt="Gannet DashboardG" align="left">
+
 ## Open Audits
 
 ## Forum
