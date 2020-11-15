@@ -1,3 +1,6 @@
+
+<img src="assets/img/LeucothEO Logo SW HR.png" alt="Logo LeucothEO">
+
 Welcome to LecothEO
 
 We want to incentivize <b>fisheries to share their data</b> on routes and catch in and around the Sargasso Sea. By <b>self-reporting their activities</b> in the area of interest, the fisheries can gain a <b>favorable rating</b> and open up a communication channel to <b>establish common ground with other stakeholders</b> in the area.
