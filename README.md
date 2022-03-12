@@ -5,7 +5,7 @@
 | Project name        | LeucothEO                                                     |
 | :------------------ | ------------------------------------------------------------  |
 | Title               | Incentivizing data sharing on the high seas                   |
-| Product demo        | http://www.ineff.ch/DOCter/                                   |
+| Product demo        | [currently unavailable]                                   |
 | Blog post           | TBA                                                           |
 | Dissemination level | Public                                                        |
 | Version             | 0.1                                                           |
